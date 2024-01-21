@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hello! 😃👋
+# Hi! 😃👋
 
 ## I'm a junior web developer trainee 👨‍💻
 
